@@ -1,6 +1,6 @@
 #Banking-System
 
-This app is made to complete Task#2 of Graduate Rotational Intership Program(GRIP) of The Sparks Foundation i.e.,Basic Banking System in an android app.
+This application is developed in context with Task#2 of Graduate Rotational Intership Program(GRIP) of The Sparks Foundation i.e.,Basic Banking System. This is an android application made with Java.
 
-By using this app,User can see their bank details and can transfer money to other user's. Then, his/her can able see their transactions history.
+This application enables the user to see their account details and perform transactions. User can also see their transaction history.
 
